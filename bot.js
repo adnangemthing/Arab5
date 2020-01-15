@@ -15,15 +15,15 @@ client.on('message', msg => {  //WESO#0001
   });
 
 client.on('message', msg => {  //WESO#0001
-    if (msg.content === 'ويسو') {  //WESO#0001
-      msg.reply('**ويسو مات**');  //WESO#0001
+    if (msg.content === 'باي') {  //WESO#0001
+      msg.reply('**مع السلامة :heart_eyes: **');  //WESO#0001
     }
   });
 
 
 client.on('message', msg => {  //WESO#0001
-    if (msg.content === 'احبك') {  //WESO#0001
-      msg.reply('**لاتحتك يا اخوي لو سمحت**');  //WESO#0001
+    if (msg.content === 'كلب') {  //WESO#0001
+      msg.reply('**لاتعيدها لو سمحت**');  //WESO#0001
     }
   });
   
